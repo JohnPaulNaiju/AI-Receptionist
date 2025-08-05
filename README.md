@@ -1,4 +1,5 @@
 <img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/beb4d7a2-2d65-49bf-b68e-7a7cb4d065c0" />
+
 ## Yazeen Bro Hotels – AI Receptionist 🏨
 
 **Yazeen Bro Hotels** is a smart hotel management platform featuring an AI-powered receptionist that automates and enhances the guest experience. The system is designed to handle everything from reservations to check‑out, offering 24/7 support without the need for constant human intervention.
@@ -44,5 +45,6 @@ It's just a project I did for my friend. I is not hosted. This code can be used 
 ### Step by step guide to make project run
 
 - Pull the project and ask AI. Documenting how to run these projects is time consuming and unworthy to me.
+
 
 
