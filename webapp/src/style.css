@@ -1,0 +1,80 @@
+#user_video{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    right: 0;
+    left: 62%;
+    top: 25px;
+    z-index: 100;
+    object-fit: cover;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+#avatar_video{
+    width: auto;
+    height: 100vh;
+}
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+    background: url("https://e1.pxfuel.com/desktop-wallpaper/461/478/desktop-wallpaper-whatsapp-dark-whatsapp-chat.jpg");
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+.button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    transition: all 0.3s ease;
+    bottom: 20px;
+}
+.button:active{
+    transform: scale(0.9);
+    background-color: #4caf4fde;
+}
+.video-container {
+    position: relative;
+    width: auto;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    overflow: hidden;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.vid1{
+    opacity: 1;
+    position: absolute;
+}
+.vid2{
+    opacity: 0;
+}
+.dummy{
+    width: 560px;
+    height: 60px;
+    background-color: #0c1317;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    box-shadow: #0c1317 0px 8px 24px;
+}
