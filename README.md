@@ -24,9 +24,10 @@ The AI receptionist interacts with guests through a chat or voice interface, ans
 - **Hosting & Deployment:** Firebase hosting
 
 ### Current Status 🚧
-It's just a project I did for my friend. I is not hosted. This code can be used to create apk files and host frontend etc.
 
-[This website](https://yazeen-bro-hotels.web.app) is a AI receptionist which will be kept in reception. This is hosted. The app will be downloaded by the hotel customers and use it for hotel services. I haven't published the app.
+It's just a project I did for my friend and it isn't hosted. This code can be used to create apk files, host frontend etc.
+
+[This website](https://yazeen-bro-hotels.web.app) is a AI receptionist which will be kept in reception and it is hosted. The app is to be downloaded by the hotel customers from the reception.
 
 ### Visuals 📸🎬
 
@@ -44,7 +45,8 @@ It's just a project I did for my friend. I is not hosted. This code can be used 
 
 ### Step by step guide to make project run
 
-- Pull the project and ask AI. Documenting how to run these projects is time consuming and unworthy to me.
+- Pull the project and ask AI 🤷‍♂️
+
 
 
 
