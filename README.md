@@ -27,7 +27,7 @@ The AI receptionist interacts with guests through a chat or voice interface, ans
 
 It's just a project I did for my friend and it isn't hosted. This code can be used to create apk files, host frontend etc.
 
-[This website](https://yazeen-bro-hotels.web.app) is a AI receptionist which will be kept in reception and it is hosted. The app is to be downloaded by the hotel customers from the reception.
+[This website](https://yazeen-bro-hotels.web.app) is a AI receptionist which will be kept in reception. The app is to be downloaded by the hotel customers from the reception.
 
 ### Visuals 📸🎬
 
@@ -46,6 +46,7 @@ It's just a project I did for my friend and it isn't hosted. This code can be us
 ### Step by step guide to make project run
 
 - Pull the project and ask AI 🤷‍♂️
+
 
 
 
